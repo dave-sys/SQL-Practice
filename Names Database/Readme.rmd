@@ -1,0 +1,1 @@
+### Practicing commands in sql and coming up with ways to manipulate databases
