@@ -1,1 +1,1 @@
-### Practicing commands in sql and coming up with ways to manipulate databases
+### Practicing commands in sql and coming up with ways to manipulate databases. The I used is to big so here is the link to the dataset/ https://www.kaggle.com/datasets/kaggle/us-baby-names
